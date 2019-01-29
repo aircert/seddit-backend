@@ -18,7 +18,7 @@ const Posts = [
     votes: 9001
   },
   {
-    id: 3,
+    id: 4,
     title: "Email security and why you should care",
     authorId: 3,
     votes: 7
